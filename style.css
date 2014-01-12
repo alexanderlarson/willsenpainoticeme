@@ -11,10 +11,15 @@
 }*/
 
 h1 {
-  left: 0;
-  margin: auto;
-  top: 50%;
-  width: 100%;
-  font-size: 120pt;
+  
+}
+
+.content {
+	text-transform:capitalize;
+	left: 0;
+	margin: auto;
+	top: 50%;
+	width: 100%;
+	font-size: 120pt;
 	font-family: Arial, sans-serif;
 }
