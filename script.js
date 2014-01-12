@@ -4,6 +4,7 @@ $(document).ready(function(){
   var h = h1/2;
   var w1 = $(window).height();
   var w = w1/2;
-  var m = w - h
-  $('h1').css("margin-top",m + "px")
+  var m = w - h;
+  $('h1').css("margin-top",m + "px");
+
 });
