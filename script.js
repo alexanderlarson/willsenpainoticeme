@@ -6,5 +6,7 @@ $(document).ready(function(){
   var w = w1/2;
   var m = w - h;
   $('h1').css("margin-top",m + "px");
-
+  var $content = $('.content');
+  $content.hide();
+  $content.fadeIn(3000);
 });
